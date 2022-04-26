@@ -35,23 +35,6 @@
   //下方填写您的一对多推送的 "群组编码" ，（一对多推送下面->您的群组(如无则新建)->群组编码）
   "PUSH_PLUS_USER": "",
   ///青龙配置  注意对接XDD 对接芝士 设置为"Config":[]
-  "Config": [
-    // 配置xdd则全部删除，配置留空
-    {
-      //序号必填从1 开始
-      "QLkey": 1,
-      //服务器名称
-      "QLName": "",
-      //青龙地址
-      "QLurl": "",
-      //青龙2,9 OpenApi Client ID
-      "QL_CLIENTID": "",
-      //青龙2,9 OpenApi Client Secret
-      "QL_SECRET": "",
-      //CK最大数量
-      "QL_CAPACITY": 40,
-      "QRurl": ""
-	}
-  ]
+  "Config": []
 
 }
